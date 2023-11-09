@@ -1,1 +1,1 @@
-# CodSoft-task1-titanic
+# task1-titanic
